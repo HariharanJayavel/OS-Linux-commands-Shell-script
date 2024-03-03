@@ -15,4 +15,3 @@ fi
 else
 echo “Sorry, the object does not exist”
 fi
-^d

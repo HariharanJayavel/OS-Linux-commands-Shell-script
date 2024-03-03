@@ -1,3 +1,4 @@
+\#!/bin/bash
 if [ -O /etc/passwd ]
 then
 echo “You are the owner of the /etc/passwd file”
