@@ -367,7 +367,7 @@ cat urllist.txt | tr -d ' ' | tr -s '.'
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
-![alt text](<Screenshot from 2024-02-28 17-43-44-2.png>)
+
 ![alt text](<Screenshot from 2024-02-28 17-44-03-2.png>)
 mkdir backupdir
  
